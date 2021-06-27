@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --blue: #0047cc;
+  --black: #434342;
+  --white: #ffffff;
+}
+
+.container {
+  width: 85%;
+  margin: auto;
+}
